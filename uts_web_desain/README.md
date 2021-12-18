@@ -1,5 +1,5 @@
-## UTS - WEB SERVICE
-### Oleh : Arbi Syarifudin (12181630)
+## Tugas-2-Mengimplementasikan-JWT-Caching-dan-Idempotency-pada-REST-API
+### Oleh : Tri Hermawan (12191708)
 
 ___
 
