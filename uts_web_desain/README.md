@@ -4,22 +4,8 @@
 ___
 
 ### Soal & Ketentuan : 
-#### Membuat restful API dengan ketentuan sebagai berikut :
-- Resource minimal 2 dan saling berelasi ada implementasi HATEOAS pada method GET
-contoh (mobil dengan merek, buku dengan pengarang, dll )
-- Tidak diperkenankan menggunakan database northwind, silahkan usaha sendiri :)
-- Terdapat method GET seluruh data dan berdasarkan ID, method POST, PUT, dan DELETE
-- Terdapat response kode error dan keterangannya
-
-
-#### Cara menilaikan :
-- Upload kode anda pada social repository seperti : github, gitlab, atau bitbucket. link repositorynya yang dikirim
-- Demokan mulai dari GET,POST,PUT, dan DELETE dengan cara merekam dan mengunggah ke youtube. rekaman disertai screen wajah, pada deskripsi video berikan identitas nim dan nama Anda. Selanjutnya link youtube dan link repository kirim ulang ke sini.
-
-### Skor Penilaian :
-- Upload program : 50
-- Mendemokan dengan video di youtube : 50
-___
+#### REST API yang sudah anda nilaikan pada UTS minggu lalu, silahkan anda modifikasi dengan menambahkan proteksi JWT, implementasikan juga penggunaan caching dan idempotency.
+Demokan dengan membuat video di youtube, dan share juga hasil kode anda menggunakan salah satu berikut ini : github, gitlab, atau bitbucket
 
 
 ### Cuplikan 
